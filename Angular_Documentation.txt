@@ -1,0 +1,26 @@
+https://acharyaprashant.org/en/books/my-books
+https://www.linkedin.com/in/bholanath-chaudhari-8b070b1a1
+https://www.facebook.com/share/19vhmrMf3k/
+// install the json server command
+npm install -g json-server
+// starting the projects it directly open in browser
+ng s -o
+//
+how to create module
+ng g m module_name
+// how to create component
+ng g c component_name
+//how to create service
+ng g s service_name
+//
+npm install ngx-toastr --save
+//
+npm install @angular/animations --save
+npm i @ngx-translate/core --save
+npm i @ngx-translate/http-loader --save
+//bootstrap
+https://getbootstrap.com/
+//watch  the json data in browser
+json-server --watch mock-api-data.json
+
+
